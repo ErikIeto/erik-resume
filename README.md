@@ -57,7 +57,7 @@ Projeto feito durante o workshop do
 ##### Layout
 
 <a name="idgif"></a>
-![gif](./.github/erikresume.gif)
+![gif](./github/erikresume.gif)
 
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais 
