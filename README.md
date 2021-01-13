@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="Do While - Rocketseat" title="DoWhile" src="github/dowhile.png" width="30%" />
+    <img alt="Do While - Rocketseat" title="DoWhile" src="github/dowhile.png" width="50%" />
 </h1>
 
 <p align="center">
