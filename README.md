@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="#-protifolio-dev">Portifólio Dev</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##-Como instalar">Com instalar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="###-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="####-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="######-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Como instalar">Com instalar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -40,7 +40,7 @@ Pronto! Você já terá seu Portfolio Dev instalado! Para rodar o projeto:
 
 
 
-### Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -51,14 +51,14 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 
 
-####  Projeto
+##  Projeto
 
 Projeto feito durante o workshop do 
  <a href="https://dowhile.rocketseat.com.br/evento" target="_blank">Do While</a> da **[@Rocketseat](https://github.com/Rocketseat)**, ministrado pela **[@Fabi Rodrigues](https://github.com/frontfabi)**.
 
 
 
-##### Layout
+## Layout
 
 <a name="idgif"></a>
 ![gif](./github/erikresume.gif)
